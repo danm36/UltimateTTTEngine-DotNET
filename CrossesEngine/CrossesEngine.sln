@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossesEngine", "CrossesEngine.csproj", "{ADB2CD93-02B5-46B4-8F7A-1450F4437923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossesEngine_RandomBotProc", "..\CrossesEngine_RandomBotProc\CrossesEngine_RandomBotProc.csproj", "{C9AD6C03-AA3F-4FC6-A764-40286A6A1A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB2CD93-02B5-46B4-8F7A-1450F4437923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB2CD93-02B5-46B4-8F7A-1450F4437923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB2CD93-02B5-46B4-8F7A-1450F4437923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB2CD93-02B5-46B4-8F7A-1450F4437923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AD6C03-AA3F-4FC6-A764-40286A6A1A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AD6C03-AA3F-4FC6-A764-40286A6A1A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AD6C03-AA3F-4FC6-A764-40286A6A1A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AD6C03-AA3F-4FC6-A764-40286A6A1A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
